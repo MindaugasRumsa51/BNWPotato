@@ -194,7 +194,10 @@
 		"outerColor": [65,54,42],
 		"innerColor": [78,244,234],
 		"uniqueName": "Great Expanse",
-		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
+		"uniques": [
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"Expand city when founding by [8] of tiles"
+		],
 		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
 			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
 			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"]
