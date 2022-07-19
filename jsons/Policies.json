@@ -417,7 +417,7 @@
 	{
 		"name": "Freedom",
 		"era": "Industrial era",
-		"uniques": ["[+25]% great person generation [in all cities]", "Unlocks building the Statue of Liberty", "Only available <before adopting [Autocracy]>", "Only available <before adopting [Order]>"],
+		"uniques": ["[+25]% Great Person generation [in all cities]", "Unlocks building the Statue of Liberty", "Only available <before adopting [Autocracy]>", "Only available <before adopting [Order]>"],
 		"policies": [
 			{
 				"name": "Civil Society",
