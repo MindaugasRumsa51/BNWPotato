@@ -39,7 +39,10 @@
 			},
 			{
 				"name": "Tradition Complete",
-				"uniques": ["[+15]% growth [in all cities]","Provides a [Aqueduct] in your first [4] cities for free","May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
+				"uniques": ["[+15]% growth [in all cities]",
+					    "Provides a [Aqueduct] in your first [4] cities for free",
+					    "Free [Great Spy] appears",
+					    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"]
 			}
 		]
 	},
@@ -218,7 +221,8 @@
 			},
 			{
 				"name": "Patronage Complete",
-				"uniques": ["Influence of all other civilizations with all city-states degrades [33]% faster", 
+				"uniques": ["Influence of all other civilizations with all city-states degrades [33]% faster",
+					"May buy [Great Spy] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",    
 					"Triggers the following global alert: [Our influence with City-States has started dropping faster!]"]
 			} 
 		]
