@@ -170,6 +170,7 @@
 		"name": "Kremlin",
 		"culture": 1,
 		"isWonder": true,
+		"greatPersonPoints": {"Great Spy": 10},
 		"uniques": ["[+50]% Production when constructing [Armored] units [in all cities]","Free Social Policy","Requires [Order]"],
 		"requiredTech": "Railroads",
 		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
