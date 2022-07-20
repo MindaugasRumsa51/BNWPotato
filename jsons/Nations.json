@@ -44,7 +44,7 @@
 		"outerColor": [251,255,206],
 		"innerColor": [255,177,9],
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["[+25]% [Science] [in annexed cities]"]
+		"uniques": ["Can steal technologies"]
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
