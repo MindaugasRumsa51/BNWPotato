@@ -19,7 +19,7 @@
 		"outerColor": [241,3,0],
 		"innerColor": [80,11,14],
 		"uniqueName": "Solidarity",
-		"uniques": ["[-10]% Culture cost of adopting new Policies"],
+		"uniques": ["Free Social Policy when starting new era"],
 		"cities": ["Warsaw","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
 			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
